@@ -40,7 +40,7 @@ def regist():
         name_label = tk.Label(root, text=namae[i])
         name_label.grid(row=i + 6, column=0, padx=5, pady=5)
         namesakujyo.append(name_label)
-
+#hogehoge
         # 好きな食べ物の表示
         eat_label = tk.Label(root, text=eat[i])
         eat_label.grid(row=i + 6, column=1, padx=5, pady=5)

@@ -10,7 +10,7 @@ def regist():
 root = tk.Tk()
 root.title("家計簿")
 root.geometry("800x600")
-
+#hogeho
 # ラベルの作成
 lbl1 = tk.Label(root, text="日付")
 lbl2 = tk.Label(root, text="摘要")
